@@ -1,6 +1,6 @@
 # Certificados DIO
 
-## Repositório com os meus certificados conquistados através da DIO!
+## Repositório com os meus certificados conquistados com a DIO!
 
 Além dos certificados postados em formato PDF, seguem abaixo os links dos certificados direto pela plataforma da DIO.
 
