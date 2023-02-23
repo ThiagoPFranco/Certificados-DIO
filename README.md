@@ -1,8 +1,8 @@
 # Certificados DIO
 
-## Repositório com certificados adquiridos pela DIO!
+## Repositório com os meus certificados conquistados através da DIO!
 
-Além dos certificados postados em formato PDF, segue abaixo os links dos certificados direto pela plataforma da DIO.
+Além dos certificados postados em formato PDF, seguem abaixo os links dos certificados direto pela plataforma da DIO.
 
 [Introdução ao Desenvolvimento Moderno de Software](https://www.dio.me/certificate/B2101D53/share) 
 
