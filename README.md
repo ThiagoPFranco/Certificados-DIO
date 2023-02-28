@@ -14,4 +14,6 @@ Além dos certificados postados em formato PDF, seguem abaixo os links dos certi
 
 [Introdução ao Ecossistema e Documentação Java](https://www.dio.me/certificate/ABBA83F1/share)
 
+[Desenvolvimento básico em Java](https://www.dio.me/certificate/BA1DB8B9/share)
+
 Conforme for me aperfeiçoando e conquistando novos cursos vou atualizando por aqui.
